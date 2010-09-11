@@ -1,0 +1,2 @@
+Os fontes estão na pasta ./src
+O executável está em ./Release

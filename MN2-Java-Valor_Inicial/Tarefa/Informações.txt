@@ -1,0 +1,14 @@
+Dados:
+y0 = 2000 m
+v0 = -2 m/s
+g = 10 m/s²
+m = 50kg
+k = 50 N * s / m
+alpha = k / m = 1
+
+Equações:
+v(t) = -g / alpha + (v0 + g / alpha) * e ^ (- alpha * t)
+v(t) = -10 + 8 * e ^ (-t)
+
+y(t) = -8 * e ^ (-alpha * t) - 10 * t + 2008
+y(t) = -8 * e ^ (-t) -10 * t + 2008

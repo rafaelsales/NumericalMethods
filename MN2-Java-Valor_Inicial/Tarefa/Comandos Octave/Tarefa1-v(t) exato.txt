@@ -1,0 +1,4 @@
+clearplot
+t = 0:0.01:20;
+v = -10 + 8 * exp(-t);
+plot(t, v, 'b')

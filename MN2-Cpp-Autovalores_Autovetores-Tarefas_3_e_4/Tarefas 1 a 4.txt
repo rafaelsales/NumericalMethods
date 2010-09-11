@@ -1,0 +1,25 @@
+                         Tarefas de autovalores e autovetores
+Para testar os métodos de autovalores e autovetores, considere a matriz simétrica, M,
+abaixo.
+(1) M = 
+4 2 1
+2 3 2
+1 2 5
+
+Tarefa 1 : Desenvolva a equação característica do problema de autovalores e
+autovetores associado à matriz, M, dada.
+
+Tarefa 2 : Sabendo que uma matriz simétrica com coeficientes reais tem apenas
+autovalores reais, utilize o teorema dos discos de Gerschgorin para determinar um
+intervalo no eixo dos números reais que contém os autovalores de M.
+
+Tarefa 3 : Calcule uma das raízes do polinômio característico desenvolvido na Tarefa
+1 pelo método de Newton-Raphson com precisão de 4 casas decimais. Deflacione o
+polinômio característico e ache as outras raízes resolvendo o polinômio de segundo
+grau resultante do processo de deflação. Procure na internet as fórmulas para cálculo
+das raízes de um polinômio de terceiro grau, recalcule as raízes usando essas fórmulas
+e compare com as raízes encontradas com Newton-Raphso e deflação.
+
+Tarefa 4 : Calcule os autovetores correspondentes aos autovalores encontrados na
+Tarefa 3, resolvendo os três sistemas de equações lineares homogêneos pelo método
+de eliminação de Gauss.
